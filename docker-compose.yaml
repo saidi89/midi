@@ -3,3 +3,19 @@ services:
     build: .
     ports:
       - 80:80
+  areyouok1:
+    build: .
+    ports:
+      - 80:80
+  areyouok2:
+    build: .
+    ports:
+      - 80:80
+  areyouok3:
+    build: .
+    ports:
+      - 80:80
+  areyouok4:
+    build: .
+    ports:
+      - 80:80
